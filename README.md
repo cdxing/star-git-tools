@@ -3,7 +3,7 @@
 This collection of tools is provided to the users of the STAR experiment with
 the hope to help them overcome difficulties caused by the migration of the
 codebase to Git.
-
+<!-- Ding Chen -->
 
 ## Installing star-git-tools
 
@@ -41,7 +41,7 @@ export PATH+=":$HOME/some/path/bin"
 
 ## Commands
 
-A basic usage and examples 
+A basic usage and examples
 
 ### git-star-checkout
 
